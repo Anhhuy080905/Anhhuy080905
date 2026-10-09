@@ -7,6 +7,7 @@ I am a 3rd-year student passionate about bridging the gap between business requi
 ### Tech Stack & Tools
 **System Analysis & Design**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Visily](https://img.shields.io/badge/Visily-635BFF?style=for-the-badge)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
 **Data & Business Intelligence**
