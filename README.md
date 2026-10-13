@@ -6,20 +6,6 @@ I am an Information Systems student with hands-on Business Analysis experience t
 
 My experience includes writing SRS/BRD documents, creating UI mockups and UML activity diagrams, and collaborating with developers and QA in an Agile/Scrum environment.
 
-### Work Experience
-
-**Business Analyst Intern — AHT Tech**  
-*June 29, 2026 – Present*
-
-Contributed to three enterprise projects: Court Records Digitization, Court Records Access, and Food Traceability.
-
-- Authored and updated SRS/BRD documents covering use cases, business rules, data validation, and exception flows.
-- Designed **40+ UI mockups** in Visily and **approximately 50+ UML activity diagrams** in Draw.io to support development and testing.
-- Specified workflows for OCR review, record editing and approval, borrowing requests, user permissions, and enterprise and invoice management.
-- Updated mockups and requirements based on customer feedback from system demonstrations.
-- Collaborated with developers to clarify business logic and provided specifications for QA test case design.
-- Participated in daily meetings and sprint planning, using Jira to manage assigned tasks and track progress.
-
 ### Tech Stack & Tools
 
 **Business Analysis & System Design**
@@ -50,6 +36,20 @@ Agile/Scrum · Requirements Clarification · Documentation · Customer Feedback
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Magento](https://img.shields.io/badge/Magento-F26322?style=for-the-badge&logo=magento&logoColor=white)
+
+### Work Experience
+
+**Business Analyst Intern — AHT Tech**  
+*June 29, 2026 – Present*
+
+Contributed to three enterprise projects: Court Records Digitization, Court Records Access, and Food Traceability.
+
+- Authored and updated SRS/BRD documents covering use cases, business rules, data validation, and exception flows.
+- Designed **40+ UI mockups** in Visily and **approximately 50+ UML activity diagrams** in Draw.io to support development and testing.
+- Specified workflows for OCR review, record editing and approval, borrowing requests, user permissions, and enterprise and invoice management.
+- Updated mockups and requirements based on customer feedback from system demonstrations.
+- Collaborated with developers to clarify business logic and provided specifications for QA test case design.
+- Participated in daily meetings and sprint planning, using Jira to manage assigned tasks and track progress.
 
 ### Featured Projects
 
